@@ -1,3 +1,0 @@
-环境配置已经导出至environment.ymal
-环境配置完成后可直接运行
-python filterDFT.py
